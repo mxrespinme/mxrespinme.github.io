@@ -1,0 +1,25 @@
+Setiap orang dapat berpartisipasi dalam proyek MX Re-spin ME di berbagai tingkatan, dari sekadar memberi saran kepada sesama pengguna hingga menjadi pengelola inti. Kontribusi apa pun, bahkan yang terkecil, dihargai. Kami menyambut semua orang untuk meningkatkan MX Re-spin ME dan menyebarkan Free Sosftware (id: Perangkat Lunak Bebas)!
+
+Berkontribusi ke MX Re-spin ME
+Kontribusi dapat berkisar dari sesuatu yang sederhana seperti perbaikan kesalahan ketik dalam dokumen atau menguji ISO hingga tugas yang lebih intensif seperti terlibat langsung dalam pengembangan MX Re-spin ME.
+
+Pengembangan MX Re-spin ME dibagi menjadi beberapa sub yang bisa anda bergabung sesuai kemampuan anda. Cari tahu berbagai tugas yang dapat Anda bantu di bawah ini:
+- Artwork (id: Karya seni)
+- Pengembangan, termasuk pemrograman dan pengemasan
+- Dokumentasi dan Terjemahan
+- Pemasaran dan Situs Web
+- Quality Assurance, termasuk pengujian dan triaging bug
+
+Donasi
+Perlu Anda ketahui bahwa proyek MX Re-spin ME adalah proyek nirlaba, proyek yang dikembangkan secara komunitas atau bisa dikatakan saat ini sebagai proyek yang dikembangkan secara personal. Itu berarti kami tidak menghasilkan apapun. Namun apa yang kami lakukan dengan MX Re-spin ME cukup membutuhkan banyak waktu dan kami melakukannya tanpa ada yang membayar kami walaupun kami melakukannya karena kami memang menyukainya dan ingin masyarakat menikmati apa yang kami nikmati, sistem operasi komputer yang bebas dan legal.
+
+Di sisi lain dalam pengembangan MX Re-spin ME kami juga membutuhkan sumber daya seperti informasi, ide, gagasan, ataupun sumber daya yang membutuhkan pendanaan seperti website, domain, listrik, peralatan, dan sebagainya. Karenanya kami terbuka bagi siapapun anda yang ingin berdonasi untuk pengembangan sistem operasi MX Re-spin ME.
+
+Aktivitas untuk semua orang
+Meskipun Anda tidak dapat berkontribusi pada tugas yang disebutkan di atas, Anda tetap dapat membantu MX Re-spin ME dengan melakukan salah satu hal berikut.
+
+Jika Anda sudah familiar dengan MX Re-spin ME ataupun MX Linux, Anda dapat membantu orang lain saat mereka mengalami masalah atau pertanyaan dengan memberi mereka dukungan.
+
+Jika Anda menghadiri acara seperti konferensi, grup pengguna Linux atau pertemuan tim komunitas Lokal Linux, Anda dapat membicarakan dan mempromosikan MX Re-pin ME kepada orang lain dalam acara tersebut.
+
+Terakhir, silakan bergabung dan / atau ikuti akun media sosial kami sehingga anda dapat mengikuti perkembangan yang terjadi. 
